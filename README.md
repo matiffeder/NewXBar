@@ -25,11 +25,11 @@
 ![](https://media.forgecdn.net/attachments/146/146/Audio.png)  
   
 ![](https://media.forgecdn.net/attachments/146/166/Mail_Receive.png "Mail_Receive")
+![](https://media.forgecdn.net/attachments/146/171/Mail_Normal.png)  
 ![](https://media.forgecdn.net/attachments/146/167/Exp_Normal.png "Exp_Normal")
 ![](https://media.forgecdn.net/attachments/146/168/Exp_Debt.png)
 ![](https://media.forgecdn.net/attachments/146/169/DPS_Normal.png)
 ![](https://media.forgecdn.net/attachments/146/170/DPS_Dura_or_Invalid.png)
-![](https://media.forgecdn.net/attachments/146/171/Mail_Normal.png)  
   
 ![](https://media.forgecdn.net/attachments/146/165/GUI1.png)  
 ![](https://media.forgecdn.net/attachments/146/124/GUI2.png)
