@@ -1,7 +1,7 @@
 # New XBar
 
 ![](https://media.forgecdn.net/attachments/146/131/New_XBar.png)  
-![](https://media.forgecdn.net/attachments/146/164/Ping_FPS.png)
+![](https://github.com/matiffeder/New_XBar/assets/2030916/80e5e63c-bec0-4a70-8870-d126a3aa94c3)
 ![](https://media.forgecdn.net/attachments/146/162/Mail.png)
 ![](https://media.forgecdn.net/attachments/146/147/Ammo.png)  
 ![](https://media.forgecdn.net/attachments/146/125/Bag.png)
@@ -24,14 +24,14 @@
 ![](https://media.forgecdn.net/attachments/146/143/Video.png)
 ![](https://media.forgecdn.net/attachments/146/146/Audio.png)  
   
-![](https://media.forgecdn.net/attachments/146/166/Mail_Receive.png "Mail_Receive")
 ![](https://media.forgecdn.net/attachments/146/171/Mail_Normal.png)  
+![](https://media.forgecdn.net/attachments/146/166/Mail_Receive.png "Mail_Receive")
 ![](https://media.forgecdn.net/attachments/146/167/Exp_Normal.png "Exp_Normal")
 ![](https://media.forgecdn.net/attachments/146/168/Exp_Debt.png)
 ![](https://media.forgecdn.net/attachments/146/169/DPS_Normal.png)
 ![](https://media.forgecdn.net/attachments/146/170/DPS_Dura_or_Invalid.png)
   
-![](https://media.forgecdn.net/attachments/146/165/GUI1.png)  
+![](https://github.com/matiffeder/New_XBar/assets/2030916/b3d0c59d-a741-42f6-ab9d-abc3fc23b4d0)  
 ![](https://media.forgecdn.net/attachments/146/124/GUI2.png)
 
 ## Pionner and Best for Your System
